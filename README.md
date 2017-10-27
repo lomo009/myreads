@@ -1,3 +1,9 @@
+![](public/screenshot1.png?raw=true "My Reads Main Page")
+^^ Main Page ^^
+
+![](public/screenshot2.png?raw=true "My Reads Search Page")
+^^ Search Page ^^
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
